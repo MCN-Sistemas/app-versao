@@ -21,11 +21,12 @@ Exemplo:
 
 ```json
 {
-  "versaoAPP": "1.0.8",
-  "versaoAPI": "2026.7.8.2",
-  "obrigatoria": false,
-  "urlAndroid": "https://play.google.com/store/apps/details?id=com.mcnfaturamento.app&hl=pt-BR",
-  "urlIOS": "https://apps.apple.com/br/app/faturamento/id6783046652"
+    "versaoAndroid": "1.0.9",
+    "versaoIOS": "1.0.8",
+    "versaoAPI": "2026.7.8.2",
+    "obrigatoria": false,
+    "urlAndroid": "https://play.google.com/store/apps/details?id=com.mcnfaturamento.app&hl=pt_BR",
+    "urlIOS": "https://apps.apple.com/br/app/faturamento/id6783046652"
 }
 ```
 
